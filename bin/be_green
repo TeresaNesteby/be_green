@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'be_green'
+puts (ARGV[0]).be_green
+
